@@ -3,4 +3,6 @@ public class Car {
     Gearbox gearbox;
     Options options;
     Steering steering;
+    Brake brake;
+    Wheels wheels;
 }

@@ -4,4 +4,6 @@ public class Car {
     Options options;
     Steering steering;
     Seats seats;
+    Brake brake;
+    Wheels wheels;
 }

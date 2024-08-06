@@ -3,4 +3,5 @@ public class Car {
     Gearbox gearbox;
     Options options;
     Steering steering;
+    Seats seats;
 }

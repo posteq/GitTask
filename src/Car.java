@@ -6,4 +6,5 @@ public class Car {
     Seats seats;
     Brake brake;
     Wheels wheels;
+    Suspension suspension;
 }
